@@ -19,10 +19,10 @@ This will install all the other requirements to run this gui properly.
 The time it will take to complete installation will vary based on your internet speed.  
 ![image](https://github.com/user-attachments/assets/9ced6cf6-3a06-4677-9934-78c7c11d5435)
 <br><br>
-Once everything above ha been completed, double click on `Event Generator.py` and it will launch after a few seconds.  
-Modify all the settings in the gui to your needs. All the official tracks have been sorted by time to group them by small, medium and large.  
-To remove tracks from your random events, navigate to the `track` folder and remove the tracks from the small, medium or large text files.  
-Once all the settings have been modified, click on the `Generate Config` button.
+Once everything above ha been completed, double click on `Event Generator.py` and it will launch after a few seconds.
+Modify all the settings in the gui to your needs. All the official tracks have been sorted by time to group them by small, medium and large.
+To remove tracks from your random events, navigate to the `track` folder and remove the tracks from the small, medium or large text files.
+Once all the settings have been modified, click on the `Generate Config` button.  
 ![image](https://github.com/user-attachments/assets/8c5ab1c6-3bed-4380-a287-d297c618c172)
 <br><br>
 This will create a file called `initial_server_config.cfg` in the corefiles folder within the applications directory `Wreckfest Event Generator\corefiles`.  
