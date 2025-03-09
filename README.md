@@ -7,8 +7,8 @@ Simply download the code into a .zip as shown in the image below.
 <br><br>
 Once downloaded, extract it to your desktop, if you want to store it in a different location, you'll need to change the location `%userprofile%\Desktop\WreckfestEventGenerator\corefiles\` in the `Target` and `Start in` of the WEG shortcut to where you want your files to reside.    
 ```
-Target: %localappdata%\Programs\Python\Python311\pythonw.exe "%userprofile%\Desktop\Wreckfest Event Generator\corefiles\WEG.py"
-Start in: "%userprofile%\Desktop\Wreckfest Event Generator\corefiles"
+Target: %localappdata%\Programs\Python\Python311\pythonw.exe "%userprofile%\Desktop\WreckfestEventGenerator\corefiles\WEG.py"
+Start in: "%userprofile%\Desktop\WreckfestEventGenerator\corefiles"
 ```  
 Open the folder, then right click on `Install1.ps1` and select Run with PowerShell.
 This will install the proper python version (3.11.9) and make sure it is set in your PATH.  
