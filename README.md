@@ -25,7 +25,7 @@ To remove tracks from your random events, navigate to the `track` folder and rem
 Once all the settings have been modified, click on the `Generate Config` button.
 ![image](https://github.com/user-attachments/assets/8c5ab1c6-3bed-4380-a287-d297c618c172)
 <br><br>
-This will create a file called `initial_server_config.cfg` in the corefiles folder within the applications directory `Wreckfest Event Generator\corefiles`.
+This will create a file called `initial_server_config.cfg` in the corefiles folder within the applications directory `Wreckfest Event Generator\corefiles`.  
 Simply copy this file to your Wreckfest server location and override the default config that is already there.  
 Please note, that if you need to edit anything extra like the lobby countdown timer, quickplay settingss or ports, you'll still need to go into the .cfg and do that manually. This is simply to generate events with random lap ranges and some extra ability to adjust the points, and add admins/mods all fom within this config taking out 90% of the work.  
 ![image](https://github.com/user-attachments/assets/d9937e06-6b61-4bee-ad0c-f2a772e200ea)
